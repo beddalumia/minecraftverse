@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2020-03-21 17:28:57 +0000",
+      "plains": "2020-03-21 17:29:08 +0000"
+    },
+    "done": false
+  }
+}

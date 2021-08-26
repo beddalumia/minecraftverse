@@ -1,1 +1,4 @@
 *.mca diff
+*.dat diff
+*.dat_old diff
+*.lock diff

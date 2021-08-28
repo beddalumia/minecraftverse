@@ -1,3 +1,5 @@
+# get diffs of minecraft files
+
 *.mca diff
 *.dat diff
 *.dat_old diff

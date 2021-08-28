@@ -4,12 +4,7 @@
 
 # untracked worlds
 
-*pruned*/
-*Pruned*/
-*PRUNED*/
-*falciato*/
-*Falciato*/
-*FALCIATO*/
-*nobackup*/
-*NoBackup*/
-*no-backup*/
+*[pP][rR][uU][nN][eE][dD]*/
+*[fF][aA][lL][cC][iI][aA][tT][oO]*/
+*[nN][oO][bB][aA][cC][kK][uU][pP]*/
+*[nN][oO][bB]-[aA][cC][kK][uU][pP]*/

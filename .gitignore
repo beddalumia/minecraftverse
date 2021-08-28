@@ -1,2 +1,15 @@
 # macOS shit
+
 *.DS_store
+
+# untracked worlds
+
+*pruned*/
+*Pruned*/
+*PRUNED*/
+*falciato*/
+*Falciato*/
+*FALCIATO*/
+*nobackup*/
+*NoBackup*/
+*no-backup*/

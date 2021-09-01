@@ -10,9 +10,9 @@ jobs:
       - name: checkout
         uses: actions/checkout@master # This refers to the version of actions/checkout repo! (branch-tips or tags)
         with:
-          ref: games # Here we select the branch to checkout of the minecraftverse repo!
-          fetch-depth: 0 # Very inefficient!
-      - name: merge-master
+          ref: games                  # Here we select the branch to checkout of the minecraftverse repo!
+          fetch-depth: 0              # Somewhat inefficient for big repositories... it fetches everything.
+      - name: local-merge
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com

@@ -7,8 +7,7 @@
 
 Versioning of some amazing (but also some crappy) minecraft worlds
 
-Here you can get an amazing bird-eye view of our multiverse!
-
-![OCTOMAP](./.github/octomap.svg)
+`Here you can get an amazing bird-eye view of our multiverse!`
+<kbd>![OCTOMAP](./.github/octomap.svg?sanitize=true)</kbd>
 
 For more information on how to read this graph (and actually much more on how to explore the repo!) you could take a look at the [Java Edition level-format wiki](https://minecraft.fandom.com/wiki/Java_Edition_level_format).

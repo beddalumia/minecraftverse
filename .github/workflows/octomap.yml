@@ -20,7 +20,7 @@ jobs:
           target_branch: games
           github_token: ${{ github.token }}
       - name: pull-games
-          run: git pull origin/games
+        run: git pull origin games
       - name: repo-visualizer
         # You may pin to the exact commit or the version.
         # uses: githubocto/repo-visualizer@<SHA>

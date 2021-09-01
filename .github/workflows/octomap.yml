@@ -2,7 +2,7 @@ name: draw-octomap
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   drawing_map:
     runs-on: ubuntu-latest

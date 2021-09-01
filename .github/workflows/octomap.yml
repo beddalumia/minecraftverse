@@ -1,5 +1,6 @@
 name: draw-octomap
 on:
+  workflow_dispatch: {}
   push:
     branches:
       - games

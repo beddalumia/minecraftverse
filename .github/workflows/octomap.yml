@@ -1,9 +1,9 @@
 name: draw-octomap
 on:
-  workflow_dispatch: {} # Manual trigger
-  #push:                # Tracking push events
-  #  branches:
-  #    - games
+  #workflow_dispatch: {} # Manual trigger
+  push:                # Tracking push events
+    branches:
+      - Issue_#4
 jobs:
   sync_and_draw:
     runs-on: ubuntu-latest

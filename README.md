@@ -2,7 +2,7 @@
 ![Custom_badge](https://img.shields.io/static/v1?&label=10&message=✓&color=informational&logo=windows&logoColor=9cf&style=flat)
 ![Custom_badge](https://img.shields.io/static/v1?&label=11&message=✓&color=lightgrey&logo=apple&style=flat)
 ![Custom_badge](https://img.shields.io/static/v1?&label=10&message=✓&color=purple&logo=ubuntu&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/bellomia/minecraftverse?label=last%20game&logo=mojangstudios&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/bellomia/minecraftverse/games?label=last%20game&logo=mojangstudios&style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/bellomia/minecraftverse?color=yellow&label=bare%20size&logo=git&style=flat)
 
 Versioning of some amazing (but also some crappy) minecraft worlds

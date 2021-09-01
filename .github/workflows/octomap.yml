@@ -19,8 +19,6 @@ jobs:
         uses: actions/checkout@master # This refers to the version of actions/checkout repo! (branch-tips or tags)
         with:
           ref: games # Here we select the branch to checkout of the minecraftverse repo!
-      - name: pull-games
-        run: git pull origin games
       - name: repo-visualizer
         # You may pin to the exact commit or the version.
         # uses: githubocto/repo-visualizer@<SHA>

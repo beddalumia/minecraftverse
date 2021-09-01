@@ -11,4 +11,4 @@ Here you can get an amazing bird-eye view of our multiverse!
 
 ![OCTOMAP](./.github/octomap.svg)
 
-For more information on how to read this graph (and actually much more on how to explore the repo!) you could take a look at the [Java_Edition_level_format wiki](https://minecraft.fandom.com/wiki/Java_Edition_level_format).
+For more information on how to read this graph (and actually much more on how to explore the repo!) you could take a look at the [Java Edition level-format wiki](https://minecraft.fandom.com/wiki/Java_Edition_level_format).
